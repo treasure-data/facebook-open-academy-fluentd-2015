@@ -27,7 +27,6 @@ Log data is an important source of information. You need log data to troubleshoo
 Before Fluentd | After Fluentd
 ---------------|--------------
 <img width="300px" src="http://www.fluentd.org/images/fluentd-before.png"> | <img width="300px" src="http://docs.fluentd.org/images/fluentd-architecture.png">
------------------------------------
 
 For more information, [the official website](https://www.fluentd.org) and [documentation](https://docs.fluentd.org) are a good place to start.
 
@@ -43,6 +42,24 @@ Here is a tentative list of potential projects.
 4. Work on improving Fluentd's logger libraries, or write a new one. See [here](https://github.com/fluent/) for all the official subprojects of Fluentd.
 5. Improve Fluentd UI, the admin web-based GUI for Fluentd. I am less familiar with this subproject, so I might not be as hands-on with this. I know the main maintainer of this project well.
 
-##Help Center
+##Paraphernalia
 
-This is where I will put useful stuff =)
+###Getting help
+
+1. The mailing lists: [this mailing list](https://groups.google.com/forum/?hl=en#!forum/fluentd-foa-2015) is where I will make announcements. Also, it's a place for anyone to ask questions, share ideas, and help one another. Also, note that there is a [separate mailing list](https://groups.google.com/forum/?hl=en#!forum/fluentd) for Fluentd, which is used by Fluentd users and maintainers around the world. Feel free to participate in the discussion over there as well.
+2. For questions specific to each task, it's best to ask them on the task's GitHub issue.
+3. For real-time, more interaction communication, we have a [gitter room](https://groups.google.com/forum/?hl=en#!forum/fluentd-foa-2015).
+4. You can always email me (I will give out my email in person). I am always willing to help, but depending on the question, it might be faster to ask on the above venues.
+
+###Git
+
+You need to know (or learn quickly) your way around Git. There is a lot of resources on Git online. My favorite is ["Git from the Bottom Up"](https://jwiegley.github.io/git-from-the-bottom-up/). Also, definitely check out Git's official [website](http://www.git-scm.com). Some of you might be new to the whole idea of version control system. For that, [this is a good article to learn why it's important](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control).
+
+
+There are several ways to interact with GitHub:
+
+1. One is to use the `git` command line + GitHub's web interface. This is my workflow.
+2. GitHub offers GUI clients for [Mac](https://mac.github.com) and [Windows](https://windows.github.com) although I've never tried either.
+3. Atlassian offers [SourceTree](https://www.atlassian.com/software/sourcetree/overview), which I use time to time on Windows.
+
+Knowing your way around Git will help you at 99% of the software jobs/internships that you will have. That said, the usual 80-20 rule applies: knowing 20% of its functionality gets you 80% of the way. If you have tough time doing anything, feel free to ask any of us =)
