@@ -13,7 +13,7 @@ Here are some ways in which it is like your university classes:
 
 Here are ways in which it is nothing like your university classes:
 
-1. Most of our communication will be virtual: Apart from the hackathon, we will be in touch through mostly asynchronous communications such as email/mailing list/etc (Detailed info coming soon).
+1. Most of our communication will be virtual: Apart from the hackathon, we will be in touch through mostly asynchronous communications such as email/mailing list/etc (see [Getting Help](#getting-help)).
 2. There will not be any exam or quiz: So no sweat! No need to memorize how to prove something runs `O(N*logN)`! You will be evaluated on participation. I know this is a very loosely defined rubric. I will make it more concrete in the coming weeks as I learn more about what everyone wants to learn/what their strengths are.
 
 Finally, this is the very first time I am "teaching" a course in any setting. As this page's URL suggests, my day job is working at a startup called [Treasure Data](http://www.treasuredata.com) where I work in engineering/marketing. If you are interested in what it's like to work at a startup, etc., ask me anytime.
