@@ -26,7 +26,7 @@ Log data is an important source of information. You need log data to troubleshoo
 
 Before Fluentd | After Fluentd
 ---------------|--------------
-<img src="http://www.fluentd.org/images/fluentd-before.png"> | <img src="http://docs.fluentd.org/images/fluentd-architecture.png">
+<img width="300px" src="http://www.fluentd.org/images/fluentd-before.png"> | <img width="300px" src="http://docs.fluentd.org/images/fluentd-architecture.png">
 -----------------------------------
 
 For more information, [the official website](https://www.fluentd.org) and [documentation](https://docs.fluentd.org) are a good place to start.
