@@ -42,6 +42,10 @@ Here is a tentative list of potential projects.
 4. Work on improving Fluentd's logger libraries, or write a new one. See [here](https://github.com/fluent/) for all the official subprojects of Fluentd.
 5. Improve [Fluentd UI](https://github.com/fluent/fluentd-ui), the admin web-based GUI for Fluentd. I am less familiar with this subproject, so I might not be as hands-on with this. I know the main maintainer of this project well.
 
+## Course Logistics
+
+- We meet at 18:00 ET virtually over Google Hangout (link to be shared).
+
 ##Paraphernalia
 
 ###Getting help
@@ -69,3 +73,9 @@ Knowing your way around Git will help you at 99% of the software jobs/internship
 
 - ["How to be an Open Source Gardener"](http://words.steveklabnik.com/how-to-be-an-open-source-gardener) - Steve Klabnik
 - ["The Cathedral and the Bazaar"](http://www.catb.org/esr/writings/cathedral-bazaar/) - Eric S. Raymond
+
+###Getting Started with Fluentd with a Windows host machine
+
+- [Vagrant](https://www.vagrantup.com/downloads.html)
+- [Vagrant Boxes](http://www.vagrantbox.es/)
+- [PuTTY to SSH into your VM](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
