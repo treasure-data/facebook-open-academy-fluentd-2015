@@ -63,3 +63,9 @@ There are several ways to interact with GitHub:
 3. Atlassian offers [SourceTree](https://www.atlassian.com/software/sourcetree/overview), which I use time to time on Windows (they have a Mac version too).
 
 Knowing your way around Git will help you at 99% of the software jobs/internships that you will have. That said, the usual 80-20 rule applies: knowing 20% of its functionality gets you 80% of the way. If you have tough time doing anything, feel free to ask any of us =)
+
+
+###Recommended Readings on Open Source in General
+
+- ["How to be an Open Source Gardener"](http://words.steveklabnik.com/how-to-be-an-open-source-gardener) - Steve Klabnik
+- ["The Cathedral and the Bazaar"](http://www.catb.org/esr/writings/cathedral-bazaar/) - Eric S. Raymond
