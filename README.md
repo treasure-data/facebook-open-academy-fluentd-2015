@@ -40,7 +40,7 @@ Here is a tentative list of potential projects.
 2. Help us launch v0.12 documentation! Fluentd just launched a major new version, and we are working to improve its docs. Here are [the existing issues](https://github.com/fluent/fluentd-docs/labels/v0.12) related to the docs.
 3. Run Fluentd on embedded Linux like Raspberry Pi, etc. to collect interesting data and do a write-up on www.fluentd.org/guides. This is fairly open-ended.
 4. Work on improving Fluentd's logger libraries, or write a new one. See [here](https://github.com/fluent/) for all the official subprojects of Fluentd.
-5. Improve Fluentd UI, the admin web-based GUI for Fluentd. I am less familiar with this subproject, so I might not be as hands-on with this. I know the main maintainer of this project well.
+5. Improve [Fluentd UI](https://github.com/fluent/fluentd-ui), the admin web-based GUI for Fluentd. I am less familiar with this subproject, so I might not be as hands-on with this. I know the main maintainer of this project well.
 
 ##Paraphernalia
 
