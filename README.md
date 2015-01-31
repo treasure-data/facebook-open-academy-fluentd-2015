@@ -1,5 +1,7 @@
 # Facebook Open Academy 2015 Winter: Fluentd
 
+[![Join the chat at https://gitter.im/treasure-data/facebook-open-academy-fluentd-2015](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/treasure-data/facebook-open-academy-fluentd-2015?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ##Introduction
 
 This is the "course page" for Facebook Open Academy's Fluentd "class".
