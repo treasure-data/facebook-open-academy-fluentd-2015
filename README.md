@@ -60,6 +60,6 @@ There are several ways to interact with GitHub:
 
 1. One is to use the `git` command line + GitHub's web interface. This is my workflow.
 2. GitHub offers GUI clients for [Mac](https://mac.github.com) and [Windows](https://windows.github.com) although I've never tried either.
-3. Atlassian offers [SourceTree](https://www.atlassian.com/software/sourcetree/overview), which I use time to time on Windows.
+3. Atlassian offers [SourceTree](https://www.atlassian.com/software/sourcetree/overview), which I use time to time on Windows (they have a Mac version too).
 
 Knowing your way around Git will help you at 99% of the software jobs/internships that you will have. That said, the usual 80-20 rule applies: knowing 20% of its functionality gets you 80% of the way. If you have tough time doing anything, feel free to ask any of us =)
