@@ -13,7 +13,7 @@ Here are some ways in which it is like your university classes:
 
 Here are ways in which it is nothing like your university classes:
 
-1. Most of our communication will be virtual: Apart from the hackathon, we will be in touch through mostly asynchronous communications such as email/mailing list/etc (see [Getting Help](#getting-help)).
+1. Most of our communication will be virtual: Apart from the hackathon, we will be in touch through mostly asynchronous communication channels such as email/mailing list/etc (see [Getting Help](#getting-help)).
 2. There will not be any exam or quiz: So no sweat! No need to memorize how to prove something runs `O(N*logN)`! You will be evaluated on participation. I know this is a very loosely defined rubric. I will make it more concrete in the coming weeks as I learn more about what everyone wants to learn/what their strengths are.
 
 Finally, this is the very first time I am "teaching" a course in any setting. As this page's URL suggests, my day job is working at a startup called [Treasure Data](http://www.treasuredata.com) where I work in engineering/marketing. If you are interested in what it's like to work at a startup, etc., ask me anytime.
@@ -48,7 +48,7 @@ Here is a tentative list of potential projects.
 
 1. The mailing lists: [this mailing list](https://groups.google.com/forum/?hl=en#!forum/fluentd-foa-2015) is where I will make announcements. Also, it's a place for anyone to ask questions, share ideas, and help one another. Also, note that there is a [separate mailing list](https://groups.google.com/forum/?hl=en#!forum/fluentd) for Fluentd, which is used by Fluentd users and maintainers around the world. Feel free to participate in the discussion over there as well.
 2. For questions specific to each task, it's best to ask them on the task's GitHub issue.
-3. For real-time, more interaction communication, we have a [gitter room](https://groups.google.com/forum/?hl=en#!forum/fluentd-foa-2015).
+3. For real-time, more interactive communication, we have a [gitter room](https://groups.google.com/forum/?hl=en#!forum/fluentd-foa-2015).
 4. You can always email me (I will give out my email in person). I am always willing to help, but depending on the question, it might be faster to ask on the above venues.
 
 ###Git
