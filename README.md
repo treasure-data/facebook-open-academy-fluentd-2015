@@ -41,6 +41,8 @@ Here is a tentative list of potential projects.
 3. Run Fluentd on embedded Linux like Raspberry Pi, etc. to collect interesting data and do a write-up on www.fluentd.org/guides. This is fairly open-ended.
 4. Work on improving Fluentd's logger libraries, or write a new one. See [here](https://github.com/fluent/) for all the official subprojects of Fluentd.
 5. Improve [Fluentd UI](https://github.com/fluent/fluentd-ui), the admin web-based GUI for Fluentd. I am less familiar with this subproject, so I might not be as hands-on with this. I know the main maintainer of this project well.
+6. Get the [Windows branch](https://github.com/fluent/fluentd/tree/windows) up to date with v0.10.58. Currently, it is at v0.10.46, but I hope to get it up to date with v0.10.49 soon!
+7. Feel free to participate in any existing project under [Fluent org](https://github.com/fluent) or any existing Fluentd [plugins](https://www.fluentd.org/plugins/all).
 
 ## Course Logistics
 
