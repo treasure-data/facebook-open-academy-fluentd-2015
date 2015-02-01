@@ -22,7 +22,7 @@ Finally, this is the very first time I am "teaching" a course in any setting. As
 
 Fluentd is open-source software that helps software engineers create unified logging infrastructure.
 
-Log data is an important source of information. You need log data to troubleshoot your software, measure its perforance and understand how it is used (=data analytics). Unfortunately, a lot of software has pretty bad logging infrastructure, and Fluentd tries to fix that.
+Log data is an important source of information. You need log data to troubleshoot your software, measure its perforance and understand how it is used (data analytics). Unfortunately, a lot of software has pretty bad logging infrastructure, and Fluentd tries to fix that.
 
 Before Fluentd | After Fluentd
 ---------------|--------------
