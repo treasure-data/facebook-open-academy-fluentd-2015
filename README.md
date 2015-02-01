@@ -68,6 +68,12 @@ There are several ways to interact with GitHub:
 
 Knowing your way around Git will help you at 99% of the software jobs/internships that you will have. That said, the usual 80-20 rule applies: knowing 20% of its functionality gets you 80% of the way. If you have tough time doing anything, feel free to ask any of us =)
 
+###GitHub
+
+Some useful links:
+
+1. [Creating a Pull Request](https://help.github.com/articles/creating-a-pull-request/)
+2. [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
 
 ###Recommended Readings on Open Source in General
 
