@@ -46,7 +46,11 @@ Here is a tentative list of potential projects.
 
 ## Course Logistics
 
-- We meet at 18:00 ET virtually over Google Hangout (link to be shared).
+- We meet at 18:00 ET virtually over Google Hangout on Wednesday (link to be shared).
+
+## Labs
+
+- [Lab 1: Learning RubyGems](https://github.com/treasure-data/facebook-open-academy-fluentd-2015/issues/3)
 
 ##Paraphernalia
 
